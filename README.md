@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Alan Mesquita 👋
+<img align="right" src="https://raw.githubusercontent.com/alan209/alan209/master/banner.jpg" width="350"/>
 <!--
 **alan209/alan209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</br>
