@@ -9,6 +9,8 @@
 - 💻 Studying Front End Development
 - 🚀 Learning is continuous and there will always be a next level
 
+<br>
+
 ### Connect with me:
 
 <p align="rigth">
