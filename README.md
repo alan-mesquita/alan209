@@ -1,5 +1,9 @@
 ### Hi there, I'm Alan Mesquita 👋
 
+<img align="right" src="https://raw.githubusercontent.com/alan209/alan209/master/banner.jpg" width="300"/>
+
+<br>
+
 ### Hey! Welcome to my profile! How is it going? ✨
 
 - 💻 Studying Front End Development
